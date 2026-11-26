@@ -1,4 +1,4 @@
-const API = '/api/people';
+const API = '/pmng-api/people';
 
 const input = document.getElementById('inputName');
 const btn = document.getElementById('btnSend');
